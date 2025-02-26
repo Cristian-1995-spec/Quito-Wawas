@@ -32,6 +32,11 @@ cuidado de niños
             text-decoration: none;
             color: #d81b60;
         }
+        .logo {
+            width: 80%;
+            max-width: 400px;
+            margin: 20px auto;
+        }
     </style>
 </head>
 <body>
@@ -39,6 +44,7 @@ cuidado de niños
         Desarrollo Infantil - Patronato San José
     </header>
     <div class="container">
+        <img src="WhatsApp Image 2025-02-25 at 9.32.57 PM.jpeg" alt="Quito Wawas" class="logo">
         <h2>Apoyando a los más pequeños</h2>
         <p>Brindamos un servicio gratuito para el cuidado infantil de niños entre 1 año y 2 años 6 meses, ayudando a su desarrollo y socialización mientras sus padres trabajan.</p>
         <div class="contacto">
